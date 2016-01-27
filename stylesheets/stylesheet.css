@@ -83,3 +83,13 @@ footer {
 .sectionheader {
   color: #800080;
 }
+.qinimage {
+  width: 250px;
+  height: 250px;
+  background: url(http://cdn.images.express.co.uk/img/dynamic/galleries/x701/60796.jpg);
+}
+.qinimage : hover {
+  width: 250px;
+  height: 250px;
+  background: url(http://www.biografiasyvidas.com/biografia/q/fotos/qin_shi_huang.jpg);
+}
