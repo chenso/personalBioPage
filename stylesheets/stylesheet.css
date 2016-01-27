@@ -77,6 +77,9 @@ footer {
     font-size: 13px;
     color: #ccc;
 }
+.project-name {
+  color: #324AB2;
+}
 .sectionheader {
   color: #800080;
 }
